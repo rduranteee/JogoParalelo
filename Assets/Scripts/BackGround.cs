@@ -7,7 +7,7 @@ public class BackGround : MonoBehaviour
     // Variavel para controlar a velocidade do objeto BF
     public float velocidade = 1.0f;
     // Variavel para controle do ponto de reposicao
-    public float reposicao = 12f ;
+    public float reposicao = 7.20f ;
     //Variavel para guardar a posicao inicial do objeto
     public Vector3 posicaoInicial;
 
